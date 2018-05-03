@@ -116,3 +116,4 @@ pyvenv.cfg
 *.pyc
 share/
 etc/
+run/
